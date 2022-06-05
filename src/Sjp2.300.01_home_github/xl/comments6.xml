@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><authors><author>片岡哲兵</author></authors><commentList><comment ref="K5" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>Ctrl + Rでコメントの表示・非表示の切り替え_x000D_
+Ctrl + Enterで始点 / 終点の入れ替え_x000D_
+Ctrl + Numberで作業色に塗る</t></r></text></comment><comment ref="DN6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>作業順ナンバー</t></r></text></comment><comment ref="DT6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">電線サブ仕分け
+チェックリストに使用
+</t></r></text></comment></commentList></comments>

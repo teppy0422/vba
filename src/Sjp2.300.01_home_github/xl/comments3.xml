@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><authors><author>片岡哲兵</author></authors><commentList><comment ref="C6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">PVSWの製品品番をそのまま入力
+※空白を削除しない
+</t></r></text></comment><comment ref="D6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>RLTF-Bにはエアバックの情報が無い為、ここで指定して取得</t></r></text></comment><comment ref="E6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>新旧比較に使用
+新または旧を入力
+比較が無い場合は新</t></r></text></comment><comment ref="F6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>同じ番号を新旧として比較を行う</t></r></text></comment><comment ref="J6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>サブナンバー印刷
+このファイルから出力するなら1</t></r></text></comment><comment ref="K6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>使用するRLTF-Aのファイル名を入力
+拡張子は入力しない</t></r></text></comment><comment ref="L6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>RLTFを起動した日
+この日より古いC処理日のマル即は反映済み
+※端末部品品番、端末№、回路符号、Cav変更を除く</t></r></text></comment><comment ref="M6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>シールドの中身をカウント
+エアバック回路を含む
+他工場切断を含む</t></r></text></comment><comment ref="N6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">手配符号
+※納入符号で無い点に注意(未確認)
+</t></r></text></comment><comment ref="O6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">特区がAをカウント
+※正しさは未確認
+</t></r></text></comment><comment ref="Q6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">このデータからは切断線長しか取得していない
+</t></r></text></comment><comment ref="W6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>RLTFのサブ№を端末一覧に取得する場合のアドレス</t></r></text></comment><comment ref="X6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>CAV一覧に空栓品番を追加する為のデータ
+MDから取得したら設変をここに取得</t></r></text></comment><comment ref="Y6" authorId="0" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">後ハメ作業者を取得するブックの指定
+</t></r></text></comment></commentList></comments>
